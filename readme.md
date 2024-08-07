@@ -1,0 +1,6 @@
+## Como usar o ReadMe:
+ O README.md é um arquivo essencial em muitos projetos, especialmente em projetos de código aberto, pois serve como a principal documentação do projeto. Ele é geralmente escrito em Markdown, uma linguagem de marcação leve que é fácil de ler e escrever. Aqui está um guia sobre como criar e usar um README.md no Visual Studio Code (VS Code).
+
+Para criar um arquivo README.md, inicie o Visual Studio Code e abra a pasta do seu projeto. No explorador de arquivos do VS Code, clique com o botão direito do mouse na raiz do seu projeto e selecione "New File". Nomeie o arquivo como README.md.
+
+Escrever em Markdown é simples e possui uma sintaxe fácil de lembrar. Por exemplo, você pode usar # para títulos (um # para um título principal, ## para um subtítulo, e assim por diante), **texto** ou __texto__ para texto em negrito, e *texto* ou _texto_ para texto em itálico. Para listas não ordenadas, utilize - ou *, e para listas ordenadas, utilize 1., 2., etc. Links são escritos como [texto do link](URL), e imagens como ![alt text](URL da imagem).
